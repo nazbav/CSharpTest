@@ -1,0 +1,52 @@
+d:\Мои документы\Бавбеков.Н\reposepos\systemProg\systemProg\bin\Debug\systemProg.exe.config
+d:\Мои документы\Бавбеков.Н\reposepos\systemProg\systemProg\bin\Debug\systemProg.exe
+d:\Мои документы\Бавбеков.Н\reposepos\systemProg\systemProg\bin\Debug\systemProg.pdb
+d:\Мои документы\Бавбеков.Н\reposepos\systemProg\systemProg\obj\Debug\systemProg.csprojAssemblyReference.cache
+d:\Мои документы\Бавбеков.Н\reposepos\systemProg\systemProg\obj\Debug\systemProg.Form1.resources
+d:\Мои документы\Бавбеков.Н\reposepos\systemProg\systemProg\obj\Debug\systemProg.Properties.Resources.resources
+d:\Мои документы\Бавбеков.Н\reposepos\systemProg\systemProg\obj\Debug\systemProg.csproj.GenerateResource.cache
+d:\Мои документы\Бавбеков.Н\reposepos\systemProg\systemProg\obj\Debug\systemProg.csproj.CoreCompileInputs.cache
+d:\Мои документы\Бавбеков.Н\reposepos\systemProg\systemProg\obj\Debug\systemProg.exe
+d:\Мои документы\Бавбеков.Н\reposepos\systemProg\systemProg\obj\Debug\systemProg.pdb
+d:\Мои документы\Бавбеков.Н\reposepos\systemProg\systemProg\obj\Debug\systemProg.Form2.resources
+d:\Мои документы\Бавбеков.Н\reposepos\systemProg\systemProg\obj\Debug\systemProg.Form3.resources
+D:\Бавбеков\systemProg\systemProg\bin\Debug\systemProg.exe.config
+D:\Бавбеков\systemProg\systemProg\bin\Debug\systemProg.exe
+D:\Бавбеков\systemProg\systemProg\bin\Debug\systemProg.pdb
+D:\Бавбеков\systemProg\systemProg\obj\Debug\systemProg.csprojAssemblyReference.cache
+D:\Бавбеков\systemProg\systemProg\obj\Debug\systemProg.Form1.resources
+D:\Бавбеков\systemProg\systemProg\obj\Debug\systemProg.Form2.resources
+D:\Бавбеков\systemProg\systemProg\obj\Debug\systemProg.Form3.resources
+D:\Бавбеков\systemProg\systemProg\obj\Debug\systemProg.Properties.Resources.resources
+D:\Бавбеков\systemProg\systemProg\obj\Debug\systemProg.csproj.GenerateResource.cache
+D:\Бавбеков\systemProg\systemProg\obj\Debug\systemProg.csproj.CoreCompileInputs.cache
+D:\Бавбеков\systemProg\systemProg\obj\Debug\systemProg.exe
+D:\Бавбеков\systemProg\systemProg\obj\Debug\systemProg.pdb
+D:\Бавбеков\systemProg\systemProg\obj\Debug\systemProg.Form0.resources
+C:\Users\Назым\Desktop\systemProg\systemProg\bin\Debug\systemProg.exe.config
+C:\Users\Назым\Desktop\systemProg\systemProg\bin\Debug\systemProg.exe
+C:\Users\Назым\Desktop\systemProg\systemProg\bin\Debug\systemProg.pdb
+C:\Users\Назым\Desktop\systemProg\systemProg\obj\Debug\systemProg.Form0.resources
+C:\Users\Назым\Desktop\systemProg\systemProg\obj\Debug\systemProg.Form1.resources
+C:\Users\Назым\Desktop\systemProg\systemProg\obj\Debug\systemProg.Form2.resources
+C:\Users\Назым\Desktop\systemProg\systemProg\obj\Debug\systemProg.Form3.resources
+C:\Users\Назым\Desktop\systemProg\systemProg\obj\Debug\systemProg.Properties.Resources.resources
+C:\Users\Назым\Desktop\systemProg\systemProg\obj\Debug\systemProg.csproj.GenerateResource.cache
+C:\Users\Назым\Desktop\systemProg\systemProg\obj\Debug\systemProg.csproj.CoreCompileInputs.cache
+C:\Users\Назым\Desktop\systemProg\systemProg\obj\Debug\systemProg.exe
+C:\Users\Назым\Desktop\systemProg\systemProg\obj\Debug\systemProg.pdb
+C:\Users\Назым\Desktop\systemProg\systemProg\obj\Debug\systemProg.csprojAssemblyReference.cache
+D:\systemProg\systemProg\bin\Debug\systemProg.exe.config
+D:\systemProg\systemProg\bin\Debug\systemProg.exe
+D:\systemProg\systemProg\bin\Debug\systemProg.pdb
+D:\systemProg\systemProg\obj\Debug\systemProg.csprojAssemblyReference.cache
+D:\systemProg\systemProg\obj\Debug\systemProg.Form0.resources
+D:\systemProg\systemProg\obj\Debug\systemProg.Form1.resources
+D:\systemProg\systemProg\obj\Debug\systemProg.Form2.resources
+D:\systemProg\systemProg\obj\Debug\systemProg.Form3.resources
+D:\systemProg\systemProg\obj\Debug\systemProg.Properties.Resources.resources
+D:\systemProg\systemProg\obj\Debug\systemProg.csproj.GenerateResource.cache
+D:\systemProg\systemProg\obj\Debug\systemProg.csproj.CoreCompileInputs.cache
+D:\systemProg\systemProg\obj\Debug\systemProg.exe
+D:\systemProg\systemProg\obj\Debug\systemProg.pdb
+D:\systemProg\systemProg\obj\Debug\systemProg.Form4.resources
